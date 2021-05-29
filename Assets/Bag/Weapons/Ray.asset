@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4b703de7c36b24aaa7a2b5a82b7d4e, type: 3}
+  m_Name: Ray
+  m_EditorClassIdentifier: 
+  info: 4 / 12
+  weaponImage: {fileID: 8042273296376651466, guid: f8ec1ac5d7cdfb9488ef30a558ca2ebc,
+    type: 3}
+  max: 12
+  bagNum: 12
+  equipped: 4
+  maxOneTime: 4
+  inc: 2
